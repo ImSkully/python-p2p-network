@@ -1,7 +1,7 @@
 # Python Peer-to-Peer File Sharing Network
 ![License](https://img.shields.io/github/license/ImSkully/python-p2p-network)
 ![Repo Size](https://img.shields.io/github/languages/code-size/ImSkully/python-p2p-network)
-![Version](https://img.shields.io/github/v/tag/imskully/python-p2p-network)
+![Version](https://img.shields.io/github/v/tag/ImSkully/python-p2p-network)
 
 A simple peer-to-peer file sharing torrenting network with encrypted payload transportation and support for multiple clients over sockets with multi-threading.
 
