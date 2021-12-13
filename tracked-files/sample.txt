@@ -1,0 +1,1 @@
+Download me from the client using the following command on a client: /fetchfile sample.txt
