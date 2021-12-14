@@ -13,3 +13,6 @@ A simple peer-to-peer file sharing torrenting network with encrypted payload tra
 All clientsided commands are executed with plain words, for serversided commands the global command deilimeter is used to recognize commands that should be encrypted with a payload and sent to the server with the respective request. This can be changed in the `shared.py` file.
 
 You can toggle debug outputs in `shared.py`.
+
+## Design Documentation
+For a detailed overview of the full system design and specification, along with usability of all features that exist, refer to the [Design Documentation available in the Wiki](https://github.com/ImSkully/python-p2p-network/wiki/Design-Documentation).
