@@ -15,4 +15,4 @@ All clientsided commands are executed with plain words, for serversided commands
 You can toggle debug outputs in `shared.py`.
 
 ## Design Documentation
-For a detailed overview of the full system design and specification, along with usability of all features that exist, refer to the [Design Documentation available in the Wiki](https://github.com/ImSkully/python-p2p-network/wiki/Design-Documentation).
+For a detailed overview of the full system design and specification, along with usability of all features that exist, refer to the [Design Documentation available in the Wiki](https://github.com/ImSkully/python-p2p-network/wiki).
